@@ -22,4 +22,7 @@ https://www.acfun.cn/u/14539629
 
 win版
 在这里下载 [https://github.com/weirros/acfun_graber/releases/download/v0.0.1/grab_tools_win.exe]      
-grab_tools_win https://www.acfun.cn/u/14539629 13 #主播主页，页数   
+grab_tools_win https://www.acfun.cn/u/14539629 13 #主播主页，页数
+tips:
+如果报错，升级到最新的chrome试试；
+https://github.com/weirros/acfun_graber/blob/main/error_s.png
