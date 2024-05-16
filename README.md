@@ -17,4 +17,5 @@ https://www.acfun.cn/u/14539629
 参见you-get的配置页；
 可以将ffmpeg的执行文件放进同名文件夹；避免报错；
 
-
+win版
+grab_tools_win https://www.acfun.cn/u/14539629 13 #主播主页，页数
