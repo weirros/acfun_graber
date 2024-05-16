@@ -1,4 +1,7 @@
 # acfun_graber
+
+## 仅作为Selenium开发测试用，如有侵权，请联络本人删除；
+
 acfun graber by the anchorman；抓取A站视频链接by主播；
 
 使用you-get 下载acfun已经很方便了。
